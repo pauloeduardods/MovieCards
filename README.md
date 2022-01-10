@@ -4,7 +4,7 @@ Link para a aplicação: https://pauloeduardods.github.io/MovieCards/
 
 Projeto consistia em fazer uma aplicação em React de um app para escolher filmes
 
-<img src=""/>
+<img src="./MovieCards.png"/>
 
 
 ## Aprendizados
